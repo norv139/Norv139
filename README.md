@@ -1,6 +1,6 @@
-## about me:
-- I'am backend developer
-- love beer and mom
+I'm remover some magical things from projects for money
+I like to talk about difficult-to-understand things from projects, but for free
+I'm translateer from PSql to Oracle/MySql and optimisation
 
 PS there won't be anything interesting here, since I'm working either on local GitLab repositories or also deployed at work (sorry)
 
